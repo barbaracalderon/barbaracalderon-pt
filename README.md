@@ -19,7 +19,7 @@ Tenho paixão por documentários, organizações com propósito, café preto, hi
 [![email](https://img.shields.io/badge/email-%23BB001B.svg?&style=for-the-badge&logo=gmail&logoColor=white?")](mailto:bcalderoni.ti@gmail.com)
 
 ## 🛠 Habilidades
-- [x] **Atualmente focada em**: *Desenvolvimento Backend, Python, Java, APIs, Flask, FastAPI, Sistemas Inteligentes, Engenharia de Software.*
+- [x] **Atualmente focada em**: *Desenvolvimento Backend, Python, Flask, FastAPI, Java, SpringBoot, APIs, Sistemas Inteligentes, Engenharia de Software.*
 - [x] **Mas também sei**: *HTML5, CSS3, JavaScript, Node.js, React.js, UI-UX, Bulma, Bootstrap.*
 - [x] **Áreas**: *Desenvolvimento Backend, Startups, Programação, Engenharia de Software, Inteligência Artificial.*
 - [x] **Idiomas**: *Português (Nativo), Inglês (Fluente), Espanhol (Fluente), Alemão (Intermediário) e Francês (Básico).*
