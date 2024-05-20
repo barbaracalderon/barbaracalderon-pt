@@ -2,6 +2,8 @@
 
 _([Clique aqui para versão English-US](https://github.com/barbaracalderon/barbaracalderon))_
 
+### **💻 | Meu portfolio (Angular)**: [https://github.com/barbaracalderon/angular-portfolio-app](https://angular-portfolio-app-omega.vercel.app)
+
 Sou formada em *Sistemas de Informação* pela __Universidade Federal de Santa Catarina__ (UFSC), Brasil (2023). Sou entusiasta de tecnologia com interesse especial em __programação de softwares__. Gosto de criar algo a partir do nada.
 
 #### Em termos de projetos, aqui alguns que desenvolvi recentemente:
