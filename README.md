@@ -8,6 +8,8 @@ Sou formada em *Sistemas de Informação* pela __Universidade Federal de Santa C
 
 #### Em termos de projetos, aqui alguns que desenvolvi recentemente:
 
+- ["TeamTrack"](https://github.com/barbaracalderon/teamtrack) é uma aplicação full-stack com testes no backend, projetada para visualizar projetos com status "em aberto" e rastrear clientes e atividades. Eu utilizei as seguintes tecnologias para implementar a aplicação: Java, Spring Boot, JPA, Hibernate ORM, PostgreSQL, PostgreSQL Driver, JUnit, Mockito, Vue.js, Bootstrap, HTML5, CSS3 e Insomnia.
+
 - Meu TCC foi um projeto piloto sobre ["Diário Oficial da União Web Restful API"](https://github.com/barbaracalderon/dou-rest-api), no qual utilizei as seguintes tecnologias: Python, Javascript, CSS, HTML, Flask, Flask Smorest, Flask Migrate, Flask JWT Extended, SQLAlchemy, Marshmallow, GUnicorn, Psycopg2, SQL, PostgreSQL, SQLite, Passlib, script bash, arquivo de requisitos, implantação no Render e ElephantSQL.
 
 - Outro projeto que você pode achar interessante é ["The 12 Barcodes API"](https://github.com/barbaracalderon/dou-rest-api), uma API RESTful simples e amigável que fornece uma maneira fácil e prática de gerar códigos de barras para suas aplicações usando requisições do tipo HTTP POST. Se você é um usuário de navegador, dá pra gerar pelo [Swagger](https://the-12-barcodes-api.onrender.com/swagger-ui). Este projeto foi desenvolvido no ecossistema Flask, adota a arquitetura MVC e dispensa o banco de dados tradicional.
