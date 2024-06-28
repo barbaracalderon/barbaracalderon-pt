@@ -28,7 +28,7 @@ Sou formada em *Sistemas de Informação* pela __Universidade Federal de Santa C
 
 #### Um pouco mais sobre mim:
 
-Tenho paixão por documentários, organizações com propósito, café preto, histórias envolventes em livros, *trabalho em equipe*, filmes de ficção científica e suspense, molho pesto, *Linux* e pela experiência comunitária. Sou desenvolvedora de software na **DBJus** (Empresa de Tecnologia da Informação focada em Inteligência de Dados em Processos Judiciais), parte do grupo *Jive Investments*, e também trabalho em diversos projetos autônomos.
+Tenho paixão por documentários, organizações com propósito, café preto, histórias envolventes em livros, *trabalho em equipe*, filmes de ficção científica e suspense, molho pesto, *Linux* e pela experiência comunitária. Sou desenvolvedora de software e trabalho em diversos projetos autônomos.
 
 ## 🔗 Contato
 
